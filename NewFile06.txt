@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 The Next Line Should be reverted
 2. This is Second Line
 3. This is Third Line
-=======
->>>>>>> parent of f17dc52 (Adding lines to 6th file)
+
